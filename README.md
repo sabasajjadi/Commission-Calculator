@@ -1,6 +1,6 @@
 # Calculate the total commission earned by a sales rep for a given period of time
-#Author: Saba Sajjadi
-#Date: 3/29/2023
+#### Author: Saba Sajjadi
+#### Date: 3/29/2023
 
 ## Goal
 Calculate the total commission earned by a sales rep for a given period of time
