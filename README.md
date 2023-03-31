@@ -6,7 +6,7 @@
 Calculate the total commission earned by a sales rep for a given period of time
 
 ## Required Python Packes Instruction:
-All required packages are included in the file. 
+All required packages are included in the files. 
 
 ## Details of the code
 The purpose of this code is to calculate the total commission for specific sales rep during specific time period. There are total 4 .py files in the repo a long with 2 datasets (Deals and Products). In Main.py file, there are two functions (load_dataframes, and total_commission). 
