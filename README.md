@@ -5,7 +5,7 @@
 ## Goal
 Calculate the total commission earned by a sales rep for a given period of time
 
-## Required Python Packes Instruction:
+## Required Python packages instruction:
 All required packages are included in the files. 
 
 ## Details of the code
