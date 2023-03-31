@@ -14,6 +14,3 @@ The first one is called "load_dataframes" which is a helper function to check da
 
 ### Unit Test Function (test_Main.py)
 You can run test_Main.py which will allow you check different test cases.
-
-### Error Handling Furnction (Error_Handling.py) 
-"Total_Commission_Sales" function is the advanced and improved version of the "total_commision" function which will allow user to test different scenarios based on the input values, in order to avoid errors or breaks while running the function (it will be useful when working with bigger datasets). You can run "test_Error_Handling.py" to see the results. 
